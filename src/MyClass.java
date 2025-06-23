@@ -4,4 +4,7 @@ public class MyClass {
 
     //VERSION v2
     public String string2 = "Bu da baska bir string'dir";
+
+    //Version v2
+    public String string3 = "Bu da cok daha baska bir string'dir.";
 }
