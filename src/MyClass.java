@@ -22,4 +22,6 @@ public class MyClass {
     public  String string8 = "Dar geldi sana Ankara";
 
 
+
+
 }
