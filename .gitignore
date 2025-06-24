@@ -35,3 +35,7 @@ bin/
 src/secret.txt
 src/database/
 *.docx
+
+**/secret.txt
+**/database/
+*.doc
