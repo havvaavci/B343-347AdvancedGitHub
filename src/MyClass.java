@@ -5,7 +5,7 @@ public class MyClass {
     //VERSION v2
     public String string2 = "Bu da baska bir string'dir";
 
-    //Version v2
+    //Version v3
     public String string3 = "Bu da cok daha baska bir string'dir.";
 
     //Techpro branch, version t1
@@ -13,7 +13,11 @@ public class MyClass {
 
     //Techpro branch, version t2
     public String string5 = "Bu techpro branch'inde olusturulmus bir string'dir.";
-    public String string6 = "Bu techpro branch'inde olusturulmus bir string'dir.";
 
+    //Version v4
+    public String string6 = "Bu artik daha da baska  bir string'dir.";
+
+  //Version V5
+    public String string7 ="Tarabya'da villasi, cafcafli arabasi";
 
 }
