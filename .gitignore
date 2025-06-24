@@ -32,3 +32,6 @@ bin/
 **/secret.txt
 **/database/
 *.doc
+src/secret.txt
+src/database/
+*.docx
