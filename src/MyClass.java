@@ -31,4 +31,7 @@ public class MyClass {
     //techpro branch version t5
     public String string10 = "Affet beni aksam ustu";
 
+    //conflict example,t6
+    public String string11 = "Bu aksam olurum beni kimse tutamaz";
+
 }
