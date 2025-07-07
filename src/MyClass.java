@@ -28,4 +28,7 @@ public class MyClass {
   //Version V5
     public String string9 ="Tarabya'da villasi, cafcafli arabasi";
 
+    //techpro branch version t5
+    public String string10 = "Affet beni aksam ustu";
+
 }
